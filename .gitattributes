@@ -1,0 +1,2 @@
+amazon-fine-food-reviews/Reviews.csv filter=lfs diff=lfs merge=lfs -text
+amazon-fine-food-reviews/database.sqlite filter=lfs diff=lfs merge=lfs -text
